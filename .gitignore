@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Node (if used later)
+node_modules/
+package-lock.json
+
+# PHP / XAMPP
+/vendor/
+.env
+
+# Logs
+*.log
+
+# Database / local configs
+*.sql
+config.php
+
+# Cache
+cache/
+tmp/
+
+# Backend work-in-progress folder (optional)
+backend/temp/
